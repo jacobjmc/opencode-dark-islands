@@ -3,8 +3,8 @@
   "defs": {
     "bg": "#141821",
     "bgDeep": "#0d1117",
-    "bgPanel": "#161a21",
-    "bgElem": "#1b2028",
+    "bgPanel": "#12161c",
+    "bgElem": "#161b21",
     "bgSel": "#262b34",
     "fg": "#c4cad3",
     "fgMuted": "#7e8793",
@@ -146,8 +146,8 @@
       "light": "blueBr"
     },
     "markdownCode": {
-      "dark": "greenStr",
-      "light": "greenStr"
+      "dark": "blue",
+      "light": "blue"
     },
     "markdownBlockQuote": {
       "dark": "fgMuted",
@@ -166,12 +166,12 @@
       "light": "borderMid"
     },
     "markdownListItem": {
-      "dark": "green",
-      "light": "green"
-    },
-    "markdownListEnumeration": {
       "dark": "blue",
       "light": "blue"
+    },
+    "markdownListEnumeration": {
+      "dark": "blueBr",
+      "light": "blueBr"
     },
     "markdownImage": {
       "dark": "fgMuted",
@@ -198,8 +198,8 @@
       "light": "blue"
     },
     "syntaxVariable": {
-      "dark": "fgMuted",
-      "light": "fgMuted"
+      "dark": "blueBr",
+      "light": "blueBr"
     },
     "syntaxString": {
       "dark": "greenStr",
@@ -218,8 +218,8 @@
       "light": "fgMuted"
     },
     "syntaxPunctuation": {
-      "dark": "fg",
-      "light": "fg"
+      "dark": "blue",
+      "light": "blue"
     }
   }
 }
