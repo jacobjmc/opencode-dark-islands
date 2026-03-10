@@ -4,7 +4,7 @@ An OpenCode theme inspired by [VS Code Dark Islands](https://github.com/bwya77/v
 
 ![Dark Islands theme demo](demo.png)
 
-## install
+## Install
 
 OpenCode custom theme docs: https://opencode.ai/docs/themes
 
@@ -33,8 +33,12 @@ cp islands-dark.json .opencode/themes/islands-dark.json
 
 Then pick `islands-dark` from OpenCode with `/theme`, or set the same theme name in your `tui.json`.
 
-## notes
+## Notes
 
 - OpenCode looks best with truecolor enabled. `echo $COLORTERM` should print `truecolor` or `24bit`.
 - Theme lookup order comes from the docs: built-in themes, user themes, project-root themes, then the current working directory.
 - If you want the extra "glass" feel from the screenshot, pair this with a terminal that supports blur, opacity, and good font rendering like Ghostty.
+
+## License
+
+MIT License - see [LICENSE](LICENSE) file for details.
