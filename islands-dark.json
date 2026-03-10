@@ -30,8 +30,8 @@
       "light": "green"
     },
     "accent": {
-      "dark": "fg",
-      "light": "fg"
+      "dark": "blue",
+      "light": "blue"
     },
     "error": {
       "dark": "red",
@@ -50,8 +50,8 @@
       "light": "blue"
     },
     "text": {
-      "dark": "blueBr",
-      "light": "blueBr"
+      "dark": "fg",
+      "light": "fg"
     },
     "textMuted": {
       "dark": "fgMuted",
@@ -74,8 +74,8 @@
       "light": "border"
     },
     "borderActive": {
-      "dark": "borderMid",
-      "light": "borderMid"
+      "dark": "blue",
+      "light": "blue"
     },
     "borderSubtle": {
       "dark": "border",
@@ -134,8 +134,8 @@
       "light": "fg"
     },
     "markdownHeading": {
-      "dark": "fg",
-      "light": "fg"
+      "dark": "blue",
+      "light": "blue"
     },
     "markdownLink": {
       "dark": "blue",
@@ -158,8 +158,8 @@
       "light": "orange"
     },
     "markdownStrong": {
-      "dark": "fg",
-      "light": "fg"
+      "dark": "blueBr",
+      "light": "blueBr"
     },
     "markdownHorizontalRule": {
       "dark": "borderMid",
