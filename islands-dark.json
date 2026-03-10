@@ -4,7 +4,7 @@
     "bg": "#141821",
     "bgDeep": "#0d1117",
     "bgPanel": "#12161c",
-    "bgElem": "#161b21",
+    "bgElem": "#171a1e",
     "bgSel": "#262b34",
     "fg": "#c4cad3",
     "fgMuted": "#7e8793",
@@ -82,8 +82,8 @@
       "light": "border"
     },
     "diffAdded": {
-      "dark": "blueBr",
-      "light": "blueBr"
+      "dark": "green",
+      "light": "green"
     },
     "diffRemoved": {
       "dark": "red",
@@ -98,8 +98,8 @@
       "light": "fgMuted"
     },
     "diffHighlightAdded": {
-      "dark": "blueBr",
-      "light": "blueBr"
+      "dark": "green",
+      "light": "green"
     },
     "diffHighlightRemoved": {
       "dark": "red",
@@ -146,8 +146,8 @@
       "light": "blueBr"
     },
     "markdownCode": {
-      "dark": "blue",
-      "light": "blue"
+      "dark": "greenStr",
+      "light": "greenStr"
     },
     "markdownBlockQuote": {
       "dark": "fgMuted",
@@ -166,12 +166,12 @@
       "light": "borderMid"
     },
     "markdownListItem": {
-      "dark": "blue",
-      "light": "blue"
+      "dark": "green",
+      "light": "green"
     },
     "markdownListEnumeration": {
-      "dark": "blueBr",
-      "light": "blueBr"
+      "dark": "blue",
+      "light": "blue"
     },
     "markdownImage": {
       "dark": "fgMuted",
@@ -198,8 +198,8 @@
       "light": "blue"
     },
     "syntaxVariable": {
-      "dark": "blueBr",
-      "light": "blueBr"
+      "dark": "fg",
+      "light": "fg"
     },
     "syntaxString": {
       "dark": "greenStr",
@@ -218,8 +218,8 @@
       "light": "fgMuted"
     },
     "syntaxPunctuation": {
-      "dark": "blue",
-      "light": "blue"
+      "dark": "fg",
+      "light": "fg"
     }
   }
 }
